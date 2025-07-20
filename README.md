@@ -27,6 +27,7 @@
 ### 📫 Onde me encontrar:
 - Instagram: [@eu.millyz_](https://instagram.com/eu.milliyz_)  
 - Email: emillymartins@gmail.com
+- LinkedIn: [Emilly Martins](https://www.linkedin.com/in/emilly-martins-0542b4314/) 
 
 ---
 
