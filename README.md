@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou a Emilly! 👋</h1>
 
 🌟 Estudante de tecnologia no **SENAI Francisco Matarazzo**  
-📚 Apaixonada por programação, criatividade e resolver problemas com código  
-💻 Explorando o mundo do **Python, Git, GitHub e desenvolvimento web**
+📚 Aprendendo programação, e tenho muita criatividade  
+💻 Explorando o mundo do **Python, Lógica de Programaçãoe e GitHub **
 
 ---
 
